@@ -25,7 +25,6 @@
 ## Wallet
 
 * [Transfer](wallet/transfer.md)
-* [Airgrab](wallet/airgrab.md)
 * [Stake CPU / NET](wallet/staking-cpu-+-net.md)
 * [Buy / Sell RAM](wallet/buy-sell-ram.md)
 * [Create Account](wallet/create-account.md)
