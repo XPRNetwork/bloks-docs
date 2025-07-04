@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Create / Register Proxy
 
 ## HOW TO CREATE A PROXY

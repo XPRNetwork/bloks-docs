@@ -16,11 +16,11 @@ It is important for you to always keep your keys safe. Exposing your Owner Key m
 
 ### 1. Select **Wallet** on the top menu.
 
-![](<../../.gitbook/assets/image (206).png>)
+![](../../.gitbook/assets/image_wallet_initial.png)
 
 ### 2. Select Keys and Permissions from the left side menu.
 
-![](<../../.gitbook/assets/image (60).png>)
+![](../../.gitbook/assets/image_wallet_keys_permissions_00.png)
 
 The Keys and Permissions page displays 3 tabs;
 
@@ -30,7 +30,7 @@ The Keys and Permissions page displays 3 tabs;
 
 If you are logged in with your Owner Key, you should see two fields; New Owner Key and New Active Key.
 
-![When you are logged in with your Owner Key](<../../.gitbook/assets/image (7).png>)
+![When you are logged in with your Owner Key](<../../.gitbook/assets/image (7) (1).png>)
 
 ![When you are logged in with your Active Key](<../../.gitbook/assets/image (174).png>)
 

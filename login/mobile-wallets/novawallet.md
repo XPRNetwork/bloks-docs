@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # NOVA Wallet
 
 NOVA Wallet is a mobile multichain wallet that allows easy and fast token transfers, has enhanced security, and supports staking through the wallet.&#x20;

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Vote for Proxies
 
 **Proxies** are created for token holders who want to participate in voicing their opinion on who should be producing blocks on the network aka be in top 21, but you may not have the time to research all the Block Producers and do your due diligence. When you proxy your vote, you allow the proxy to vote on your behalf.

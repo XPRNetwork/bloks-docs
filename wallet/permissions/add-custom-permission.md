@@ -6,11 +6,11 @@ You can create custom permissions to allow only certain functions to happen.&#x2
 
 ### 1. Select **Wallet** on the top menu.
 
-![](<../../.gitbook/assets/image (206).png>)
+![](../../.gitbook/assets/image_wallet_initial.png)
 
 ### 2. Select Keys and Permissions from the left side menu.
 
-![](<../../.gitbook/assets/image (60).png>)
+![](../../.gitbook/assets/image_wallet_keys_permissions_00.png)
 
 Click on the Advanced tab.
 
@@ -18,9 +18,9 @@ It will display two permissions, #1 Owner and #2 Active.&#x20;
 
 ### 3. Click Add New Permission. Enter required fields and click Save Permission.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](../../.gitbook/assets/image_wallet_keys_permissions_01.png)
 
-![](<../../.gitbook/assets/image (169).png>)
+![](../../.gitbook/assets/image_wallet_keys_permissions_02.png)
 
 Click Add New Permission, which will create Permission #3 where you are able to set the Permission Name, Parent, Threshold, Add Key , Add Account and Add Wait.
 

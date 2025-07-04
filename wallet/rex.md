@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # REX
 
 REX is a Resource Exchange on EOS, officially launched on May 1st 2019. It is a marketplace to allow risk-free leasing of network resources, CPU and NET. Our REX portal simplifies the complicated process of REX by allowing you to earn directly with your EOS. As fees from CPU/NET borrowers, namebids, etc. flow into REX, the value of your loaned EOS will go up.&#x20;
@@ -8,7 +12,7 @@ REX allows dApps to rent bandwidth for a fraction of the capital cost of owning 
 It is important to note that **borrowing CPU/NET is for dApps to buy resources only**, you will **not** get the EOS spent back.
 {% endhint %}
 
-![A diagram of how REX works on EOS Mainnet](<../.gitbook/assets/image (2).png>)
+![A diagram of how REX works on EOS Mainnet](<../.gitbook/assets/image (2) (1).png>)
 
 ## **STEPS TO EARN WITH REX**
 

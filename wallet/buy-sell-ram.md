@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Buy / Sell RAM
 
 RAM stands for Random Access Memory; it is a form of computer data storage that stores data and code currently being used. XPRNetwork RAM is a resource required for dApp developers for their smart contracts to be deployed.&#x20;

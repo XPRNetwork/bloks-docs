@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # WAX GBM Claiming
 
 WAX Genesis Block Member (GBM) program is for anyone who have participated in the WAX Token Swap. All WAX Protocol Tokens generated during the token swap (June 30th 2019 - August 30th 2019) will be designated Genesis WAX Protocol Tokens. The WAX Token Swap is the only time that WAX Protocol Tokens will be designated Genesis WAX Protocol Tokens.

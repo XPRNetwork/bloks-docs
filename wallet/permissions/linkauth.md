@@ -6,11 +6,11 @@ Now that a new custom permission has been created (previous guide), you need to 
 
 ### 1. Select **Wallet** on the top menu.
 
-![](<../../.gitbook/assets/image (206).png>)
+![](../../.gitbook/assets/image_wallet_initial.png)
 
 ### 2. Select Keys and Permissions from the left side menu.
 
-![](<../../.gitbook/assets/image (60).png>)
+![](../../.gitbook/assets/image_wallet_keys_permissions_00.png)
 
 Click on the Link Auth tab.
 
@@ -26,7 +26,7 @@ You can find a complete list of eosio contract actions at [EOSIO on Bloks.io, Co
 
 ### 3. Fill in the 3 required blank fields and click Link Auth.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 Once all three required fields are filled out, check the bottom to see if the correct permission you want to link authorization to is highlighted with the contract name and contract action you've input. Click Link Auth to finalize transaction.&#x20;
 
@@ -34,7 +34,7 @@ Once all three required fields are filled out, check the bottom to see if the co
 
 If you are using Scatter, you will need to click Allow action linkauth to proceed with this action.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 A success message will pop up with a transaction has to confirm you've completed Link Auth.
 

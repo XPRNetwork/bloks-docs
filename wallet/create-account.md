@@ -1,32 +1,31 @@
 # Create Account
 
-To interact with the blockchain and use dApps on EOS, you will need to have an EOS account. The account will store your data on the blockchain such as your account name, transfers, and how many tokens you own.
+To interact with the blockchain and use dApps on XPR Network, you will need to have an XPR Network account. The account will store your data on the blockchain such as your account name, transfers, and how many tokens you own.
 
-A new EOS account can **only be created by someone with an existing accounts on Bloks.io**. You will need to stake a minimum of 0.2 EOS for NET and CPU to allow a few transactions, as well as a minimum of 3000 bytes of RAM.&#x20;
+For regular users, you can get a free account from [WebAuth.com](https://webauth.com/) which includes resources such as RAM by default.
+
+A new XPR Network account can also **be created by someone with an existing account** [**here on the Explorer**](https://explorer.xprnetwork.org/wallet/create-account/advanced). You will need to buy a minimum of 3000 bytes of RAM for this account to get started.
 
 {% hint style="info" %}
-If you don't currently have an EOS account or know anyone who can create an account for you, you can pay for a new account by using [Lynx Wallet](https://lynxwallet.io/) (mobile) or [Exodus](https://www.exodus.io/) (desktop). Check out their respective sites to learn more about how to create a brand new EOS account.
+If you don't currently have an XPR Network account you can get your free account (including free RAM) using [WebAuth.com](https://webauth.com/)
 {% endhint %}
 
-## HOW TO CREATE AN EOS ACCOUNT
+## HOW TO CREATE AN XPR ACCOUNT
 
 ### 1. Select **Wallet** on the top menu.
 
-![](<../.gitbook/assets/image (228).png>)
+<figure><img src="../.gitbook/assets/wallet create.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Select Create Account from the left side menu.
 
-![](<../.gitbook/assets/image (223).png>)
+<figure><img src="../.gitbook/assets/wallet create  acc.png" alt=""><figcaption></figcaption></figure>
 
-The Create Account page has 2 tabs to give users a preferred method to create an account;
+The Create Account page has 2 tabs;
 
-* **Simple** - Displays 2 fields to populate;
-  * **Account Name** - Username of the new account. Needs to be 12 characters, lowercase, and only characters a-z and 1-5 can be used in the name.
-  * **Public EOS Key** - You can generate a Public and Private Key pair for the new account
-* **Advanced** - Allows you to select how much resources to purchase&#x20;
-  * **New Account to create** - Username of the new account. Needs to be 12 characters, lowercase, and only characters a-z and 1-5 can be used in the name.
-  * **New Accounts Public Owner Key** - Public key only, should be 54 characters long and start with EOS. This key will be your primary key.
-  * **New Accounts Public Active Key** - Public key only, should be 54 characters long and start with EOS. This key will be your active key.
-  * **NET to Stake for New Account (in EOS) -** 0.2 EOS will allow a few transactions. Change as required.
-  * **CPU to Stake for New Account (in EOS) -** 0.2 EOS will allow a few transactions. Change as required.
+* **Advanced** - Allows you to create a new XPR Network account manually.
+  * **New Account to create** - Username of the new account. Needs to be between 4-12 characters, lowercase, and only characters a-z and 1-5 can be used in the name.
+  * **New Accounts Public Owner Key** - Public key only, should be 57 characters long and start with PUB\_K1\_ (This key will be your owner permission, this has elevated permissions above the Active Key)
+  * **New Accounts Public Active Key** - Public key only, should be 57 characters long and start with PUB\_K1\_ (This key will be your active permission, this _**can**_ be the same as Owner)
   * **RAM to buy for New Account (in Bytes) -** Minimum for new account is 3000. Change as required.
+* Link Email
+  * Allows you to link an email address to your manually created XPR Network account so that you can complete the on-chain [identity verification](https://identity.metallicus.com/).

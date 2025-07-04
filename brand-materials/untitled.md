@@ -1,8 +1,12 @@
-# Bloks.io Logos
+# XPR Network Logos
 
-![Bloks.io Primary Logo](<../.gitbook/assets/image (245).png>)
+<figure><img src="../.gitbook/assets/XPR Network-glyph-white@4x.png" alt=""><figcaption><p>XPR Network Glyph</p></figcaption></figure>
 
-![Bloks.io Secondary Logo](<../.gitbook/assets/image (30).png>)
+
+
+<figure><img src="../.gitbook/assets/XPR Network-full-white@4x.png" alt=""><figcaption><p>XPR Network Primary Logo</p></figcaption></figure>
+
+
 
 
 
